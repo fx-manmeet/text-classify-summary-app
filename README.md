@@ -1,6 +1,6 @@
 # NLP Based App with Streamlit
 
-This is a Natural Language Processing Based App useful for basic NLP tasks such as Tokenization, Named Entity Recognition (NER), Sentiment Analysis, and Text Summarization.
+This is a Natural Language Processing Based App useful for spam detection, Sentiment Analysis, and Text Summarization.
 
 ## How to Run
 
