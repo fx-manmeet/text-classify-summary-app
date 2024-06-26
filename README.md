@@ -23,13 +23,13 @@ This is a Natural Language Processing Based App useful for basic NLP tasks such 
 ## Screenshots
 
 ### Home Page
-![Home Page](images\home.png)
+![Home Page](images/home.png)
 
 ### Spam Detection
-![Spam Detection](images\spam_classification.png)
+![Spam Detection](images/spam_classification.png)
 
 ### Sentiment Analysis
-![Sentiment Analysis](images\sentiment.png)
+![Sentiment Analysis](images/sentiment.png)
 
 ### Text Summarization
-![Sentiment Analysis](images\summarization.png)
+![Text Summarization](images/summarization.png)
