@@ -20,4 +20,16 @@ This is a Natural Language Processing Based App useful for basic NLP tasks such 
 - **Sentiment Analysis**: Analyze the sentiment of the text.
 - **Text Summarization**: Summarize text using GPT-2 or XLNet models.
 
+## Screenshots
 
+### Home Page
+![Home Page](images\home.png)
+
+### Spam Detection
+![Spam Detection](images\spam_classification.png)
+
+### Sentiment Analysis
+![Sentiment Analysis](images\sentiment.png)
+
+### Text Summarization
+![Sentiment Analysis](images\summarization.png)
